@@ -5,7 +5,7 @@ __pycache__/
 *.log
 *~
 .vscode/
-data/model/
+data/models/
 data/indexes/
 deprecated/
 venv/
