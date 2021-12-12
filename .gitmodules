@@ -1,0 +1,3 @@
+[submodule "src/bertserini"]
+	path = src/bertserini
+	url = https://github.com/ncthuan/bertserini

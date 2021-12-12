@@ -1,0 +1,13 @@
+cache*
+__pycache__/
+*.py[cod]
+*.DS_Store
+*.log
+*~
+.vscode/
+data/model/
+data/indexes/
+deprecated/
+venv/
+*.tar.gz
+*.egg-info
