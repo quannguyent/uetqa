@@ -25,7 +25,7 @@ d) Các học phần giáo dục thể chất do Trung tâm Giáo dục thể ch
 e) Các học phần kỹ năng bổ trợ do đơn vị đào tạo quy định nội dung và tổ chức giảng dạy;
 f) Các học phần còn lại do đơn vị quản lý học phần giảng dạy.
 
-## Điều 3. Nguyên tắc đảm bảo chất lượng và hiệu quả giáo dục 
+## Điều 3. Nguyên tắc đảm bảo chất lượng và hiệu quả giáo dục
 
 1. Nội dung đào tạo, phương pháp dạy – học, kiểm tra đánh giá và phương thức quản lý phải phù hợp và hướng tới chuẩn đầu ra của chương trình đào tạo.
 2. Phát triển các chương trình đào tạo mới, có tính liên ngành đáp ứng nhu cầu hiện tại và tương lai của xã hội.
@@ -33,7 +33,7 @@ f) Các học phần còn lại do đơn vị quản lý học phần giảng d�
 4. Gắn đào tạo với nghiên cứu khoa học, hoạt động thực tiễn.
 5. Kiểm định chất lượng giáo dục là yêu cầu bắt buộc trong đào tạo tại Đại học Quốc gia Hà Nội.
 
-## Điều 4. Hình thức dạy học, tín chỉ, giờ tín chỉ 
+## Điều 4. Hình thức dạy học, tín chỉ, giờ tín chỉ
 
 1. Hình thức dạy học:
 a) Lý thuyết: sinh viên học tập trên lớp qua bài giảng trực tiếp của giảng viên tại lớp học hoặc qua các lớp học trực tuyến.
@@ -47,7 +47,7 @@ a) Một giờ tín chỉ lý thuyết bằng 01 tiết lý thuyết; để ti�
 b) Một giờ tín chỉ thực hành bằng 2 – 3 tiết thực hành, thí nghiệm hoặc thảo luận; 3 – 6 tiết thực tập tại cơ sở; 3 – 4 tiết làm tiểu luận, bài tập lớn hoặc đồ án, khoá luận tốt nghiệp; để tiếp thu được 1 giờ tín chỉ thực hành sinh viên phải dành ít nhất 2 tiết chuẩn bị cá nhân.
 c) Một giờ tín chỉ tự học bắt buộc bằng 3 tiết tự học bắt buộc và được kiểm tra đánh giá.
 
-## Điều 5. Học phần 
+## Điều 5. Học phần
 
 1. Học phần là một phần kiến thức của chương trình đào tạo; mỗi học phần có khối lượng kiến thức từ 2 đến 5 tín chỉ, được tổ chức giảng dạy trọn vẹn trong một học kỳ; mỗi học phần có mã số riêng do Đại học Quốc gia Hà Nội quy định.
 
@@ -75,7 +75,7 @@ g) Các thông tin khác (nếu có) theo quy định của đơn vị đào t�
 a) Mỗi học phần có ngân hàng câu hỏi do đơn vị quản lý học phần tổ chức biên soạn, được Hội đồng khoa học và đào tạo cấp khoa thẩm định và được Chủ nhiệm khoa cho phép sử dụng để lựa chọn làm đề kiểm tra đánh giá.
 b) Thủ trưởng đơn vị đào tạo quy định cụ thể việc xây dựng ngân hàng câu hỏi của học phần.
 
-## Điều 6. Chương trình đào tạo 
+## Điều 6. Chương trình đào tạo
 
 1. Chương trình đào tạo đại học thể hiện mục tiêu, phạm vi và cấu trúc nội dung đào tạo đại học; quy định chuẩn đầu ra về kiến thức, kỹ năng, thái độ, phương pháp và hình thức đào tạo, cách thức đánh giá kết quả đào tạo.
 Một ngành học có một hoặc nhiều chương trình đào tạo với chuẩn đầu ra tương ứng. 
@@ -91,7 +91,7 @@ f) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gi
 g) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gia Hà Nội và cơ sở đào tạo đại học có tư cách pháp nhân của nước ngoài (đối tác nước ngoài) cùng cấp bằng;
 h) Chương trình đào tạo liên kết quốc tế do đối tác nước ngoài cấp bằng.
 
-## Điều 7. Hình thức đào tạo 
+## Điều 7. Hình thức đào tạo
 
 1. Đào tạo chính quy được tổ chức đào tạo tập trung liên tục trong toàn khoá học và áp dụng cho các chương trình đào tạo quy định tại mục a, b, c, d, đ, e, f, khoản 2, Điều 6 của Quy chế này.
 2. Đào tạo vừa làm vừa học được tổ chức đào tạo không tập trung trong toàn khoá học và áp dụng cho chương trình đào tạo quy định tại mục a, khoản 2, Điều 6 của Quy chế này (không có học phần giáo dục thể chất).
@@ -100,12 +100,12 @@ h) Chương trình đào tạo liên kết quốc tế do đối tác nước ng
 
 1. Nguồn kinh phí đào tạo:
 Kinh phí để tổ chức đào tạo một ngành học bao gồm kinh phí từ ngân sách Nhà nước, học phí và các nguồn kinh phí hợp pháp khác. 
-a) Kinh phí từ ngân sách nhà nước
+a) Kinh phí từ ngân sách nhà nước:
 Đại học Quốc gia Hà Nội phân bổ kinh phí theo định mức và chỉ tiêu đào tạo hàng năm cho các ngành học được cấp ngân sách Nhà nước. 
 b) Học phí:
 – Sinh viên theo học bất kỳ ngành học nào đều phải trả học phí (trừ sinh viên thuộc đối tượng được miễn giảm theo quy định hiện hành của Nhà nước).
 – Sinh viên trả học phí theo số tín chỉ đăng ký học trong mỗi học kỳ tại đơn vị đào tạo quản lý ngành học mà sinh viên theo học.
-– Học phí được tính theo công thức:  M = a.∑(i=1,k) hj.ni   (j = 1 ÷ 4)
+– Học phí được tính theo công thức:  M = a.∑(i=1,k) hj.ni  (j = 1 ÷ 4)
 trong đó:
 M: Số học phí phải nộp a: Định mức học phí cho một tín chỉ theo hình thức đào tạo và chương trình đào tạo;
 hj: Hệ số học phí của học phần thứ i mà sinh viên học lần đầu (h1), học lại (h2), học cải thiện điểm (h3), học tự chọn tự do (h4);
@@ -116,7 +116,7 @@ k: Tổng số học phần.
 – Thủ trưởng đơn vị đào tạo quy định cụ thể và công bố cho sinh viên biết cách thức thu, nộp và xét miễn giảm học phí.
 – Các đơn vị đào tạo thực hiện chế độ miễn, giảm học phí cho sinh viên theo quy định của Nhà nước và của Đại học Quốc gia Hà Nội.
 
-c) Các nguồn kinh phí hợp pháp khác
+c) Các nguồn kinh phí hợp pháp khác:
 Các nguồn kinh phí hợp pháp dành cho công tác đào tạo do Thủ trưởng đơn vị đào tạo quy định. 
 
 2. Sử dụng kinh phí đào tạo:
@@ -135,7 +135,7 @@ Căn cứ quy định chung của Bộ Giáo dục và Đào tạo, Giám đốc
 
 #  Chương II chương trình đào tạo
 
-## Điều 10. Cấu trúc chương trình đào tạo 
+## Điều 10. Cấu trúc chương trình đào tạo
 
 Chương trình đào tạo được sắp xếp theo các khối kiến thức:
 1. Khối kiến thức chung được tổ chức giảng dạy thống nhất cho tất cả các ngành học;
@@ -144,7 +144,7 @@ Chương trình đào tạo được sắp xếp theo các khối kiến thức:
 4. Khối kiến thức theo nhóm ngành được tổ chức giảng dạy cho các ngành học thuộc cùng nhóm ngành;
 5. Khối kiến thức ngành được tổ chức giảng dạy cho một ngành học.
 
-## Điều 11. Nguyên tắc xây dựng ngành học mới 
+## Điều 11. Nguyên tắc xây dựng ngành học mới
 
 Đơn vị đào tạo xây dựng đề án mở ngành học mới theo nguyên tắc:
 1. Có nhu cầu xã hội cao, được chứng minh qua điều tra khảo sát tại các cơ sở sử dụng người học sau tốt nghiệp;
@@ -171,7 +171,7 @@ d) Quy chế này không quy định chuẩn đầu ra về trình độ ngoại
 
 4. Thủ trưởng đơn vị đào tạo chỉ đạo việc xây dựng chuẩn đầu ra, tổ chức hội thảo rộng rãi lấy ý kiến đóng góp của các nhà quản lý, các nhà khoa học, giảng viên, cơ sở sử dụng người học sau tốt nghiệp, cựu sinh viên để hoàn thiện và công bố chuẩn đầu ra của từng chương trình đào tạo.
 
-## Điều 13. Thiết kế chương trình đào tạo 
+## Điều 13. Thiết kế chương trình đào tạo
 
 1. Nguyên tắc thiết kế chương trình đào tạo:
 Chương trình đào tạo được thiết kế hướng tới đạt chuẩn đầu ra và tiến hành theo quy trình 4 bước:
@@ -198,7 +198,7 @@ f) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gi
 g) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gia Hà Nội và đối tác nước ngoài cùng cấp bằng được thiết kế trên cơ sở quy định về thiết kế chương trình đào tạo của Đại học Quốc gia Hà Nội và nội dung thoả thuận hợp tác ký kết giữa hai bên.
 h) Quy chế này không quy định việc thiết kế chương trình đào tạo liên kết quốc tế do đối tác nước ngoài cấp bằng.
 
-## Điều 14. Tổ chức xây dựng, ban hành chương trình đào tạo 
+## Điều 14. Tổ chức xây dựng, ban hành chương trình đào tạo
 
 1. Đại học Quốc gia Hà Nội:
 a) Quy định cấu trúc chương trình đào tạo theo Điều 10 của Quy chế này;
@@ -296,7 +296,7 @@ a) Đối với học kỳ chính, không tính học kỳ cuối khoá:
 Trường hợp sinh viên có nguyện vọng đăng ký học ít hơn số tín chỉ tối thiểu trong một học kỳ phải được sự đồng ý của Thủ trưởng đơn vị đào tạo.
 b) Đối với học kỳ phụ: Thủ trưởng đơn vị đào tạo quy định.
 
-2. Đăng ký học phần
+2. Đăng ký học phần:
 a) Việc tổ chức đăng ký học các học phần trong chương trình đào tạo do Thủ trưởng đơn vị đào tạo quy định. Sinh viên được đăng ký học và thi các học phần trong chương trình đào tạo do bất kỳ một đơn vị đào tạo nào thuộc Đại học Quốc gia Hà Nội tổ chức giảng dạy. Kết quả các học phần này được chuyển đổi và được công nhận ở tất cả các đơn vị đào tạo trong Đại học Quốc gia Hà Nội. 
 b) Các đơn vị đào tạo có trách nhiệm thông báo bằng văn bản và trên trang thông tin điện tử của đơn vị kế hoạch giảng dạy, thời khoá biểu các học phần trước thời gian đăng ký học ít nhất là 2 tuần để sinh viên biết, tạo mọi điều kiện thuận lợi cho sinh viên của đơn vị khác đăng ký học phần; chuyển dữ liệu đăng ký học phần, dữ liệu điểm học phần của sinh viên tới đơn vị đào tạo quản lý sinh viên ngay sau khi kết thúc thời gian đăng ký học và kết thúc việc chấm thi.
 
@@ -345,7 +345,7 @@ b) Được Thủ trưởng đơn vị đào tạo chấp nhận;
 c) Không vi phạm quy định tại khoản 1, Điều 20 của Quy chế này.
 Sinh viên chỉ được phép không lên lớp đối với học phần xin rút bớt sau khi giảng viên phụ trách học phần nhận được giấy báo của phòng đào tạo.
 
-## Điều 22. Đối tượng được miễn, tạm hoãn học các học phần giáo dục quốc phòng – an ninh, giáo dục thể chất 
+## Điều 22. Đối tượng được miễn, tạm hoãn học các học phần giáo dục quốc phòng – an ninh, giáo dục thể chất
 
 1. Đối tượng được miễn học học phần giáo dục quốc phòng – an ninh:
 a) Đối tượng được miễn học toàn bộ học phần:
@@ -479,7 +479,7 @@ b) Sinh viên có nguyện vọng.
 
 # Chương V giảng viên và cố vấn học tập
 
-## Điều 30. Giảng viên 
+## Điều 30. Giảng viên
 
 1. Trách nhiệm và quyền hạn của giảng viên:
 a) Thực hiện nhiệm vụ của công chức, viên chức theo quy định của Luật Giáo dục, Luật Giáo dục đại học, Luật Viên chức, Luật Cán bộ, công chức và pháp luật có liên quan; giữ gìn phẩm chất, uy tín, danh dự của nhà giáo; tôn trọng nhân cách của người học, đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học; tham gia quản lý đơn vị đào tạo, tham gia công tác Đảng, đoàn thể khi được tín nhiệm và các công tác khác được trường, khoa, bộ môn giao;
@@ -644,7 +644,7 @@ Kết quả học tập của sinh viên được đánh giá sau mỗi học k�
 4. Điểm trung bình chung các học phần là điểm trung bình theo trọng số tín chỉ của các học phần mà sinh viên đăng ký học từ đầu khoá học cho tới thời điểm xem xét (bao gồm cả các học phần được đánh giá loại đạt và không đạt).
 5. Điểm trung bình chung tích luỹ là điểm trung bình theo trọng số tín chỉ của các học phần đã được đánh giá loại đạt mà sinh viên đã tích luỹ được, tính từ đầu khoá học cho tới thời điểm xem xét.
 
-## Điều 40. Cách tính điểm trung bình chung 
+## Điều 40. Cách tính điểm trung bình chung
 
 1. Để tính điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích luỹ, mức điểm chữ của mỗi học phần được quy đổi thành điểm số như sau:
 A+ tương ứng với 4,0;
@@ -658,7 +658,7 @@ D  tương ứng với 1,0;
 F  tương ứng với 0.
 
 2. Điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích luỹ được tính theo công thức sau và được làm tròn đến 2 chữ số thập phân:
-M = a.∑(i=1,n) ai.ni  /  ∑(i=1,n) ni
+M = a.∑(i=1,n) ai.ni / ∑(i=1,n) ni
 trong đó:
 A: là điểm trung bình chung học kỳ hoặc điểm trung bình chung các học phần hoặc điểm trung bình chung tích luỹ;
 i: là số thứ tự học phần;
@@ -740,7 +740,7 @@ d) Trung bình: Điểm trung bình chung tích luỹ từ 2,00 đến 2,49.
 
 10. Sinh viên chưa hoàn thành học phần giáo dục quốc phòng – an ninh, học phần giáo dục thể chất, kỹ năng bổ trợ nhưng đã hết thời gian tối đa được phép học, trong thời hạn 5 năm tính từ ngày phải ngừng học, được trở về đơn vị đào tạo học lại để có đủ điều kiện tốt nghiệp.
 
-## Điều 45. Quyền hạn cấp bằng đại học 
+## Điều 45. Quyền hạn cấp bằng đại học
 
 1. Đại học Quốc gia Hà Nội ban hành mẫu phôi bằng, in, quản lý, cấp phôi bằng đại học cho các đơn vị đào tạo.
 2. Căn cứ vào quyết định công nhận tốt nghiệp, Hiệu trưởng trường đại học thành viên ký và đóng dấu của trường vào bằng tốt nghiệp đại học cho những sinh viên được đào tạo ở trường mình.
