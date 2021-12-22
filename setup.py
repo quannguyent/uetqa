@@ -15,7 +15,7 @@ setup(
     description='QA on UET-VNU regulations',
     long_description=readme,
     license=license,
-    python_requires='>=3.7',
+    python_requires='>=3.6',
     packages=find_packages(exclude=('data')),
     install_requires=reqs.strip().split('\n'),
 )
