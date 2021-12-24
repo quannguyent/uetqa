@@ -1,0 +1,925 @@
+{
+  "version": "1.0",
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "context": "Chương I những quy định chung.\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng.\n1. Quy chế này quy định về đào tạo bậc đại học tại Đại học Quốc gia Hà Nội, bao gồm: chương trình đào tạo; tổ chức và quản lý đào tạo; nghiên cứu khoa học của sinh viên; quyền lợi và nghĩa vụ của giảng viên, cố vấn học tập, sinh viên; kiểm tra, thi và đánh giá kết quả học tập; công nhận tốt nghiệp.\n2. Quy chế này áp dụng đối với các đơn vị và cá nhân tham gia vào quá trình đào tạo bậc đại học tại Đại học Quốc gia Hà Nội.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 411,
+                  "text": "các đơn vị và cá nhân tham gia vào quá trình đào tạo bậc đại học tại Đại học Quốc gia Hà Nội"
+                }
+              ],
+              "id": "13d507dd-53d7-4756-ac0e-7b6ab5098bfb",
+              "question": "Quy chế áp dụng với những ai"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 1.  1. Quy chế này quy định về đào tạo bậc đ"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương I những quy định chung.\nĐiều 4. Hình thức dạy học, tín chỉ, giờ tín chỉ .\n2. Tín chỉ là đại lượng xác định khối lượng kiến thức, kỹ năng mà sinh viên tích luỹ được từ học phần trong 15 giờ tín chỉ.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 95,
+                  "text": "đại lượng xác định khối lượng kiến thức, kỹ năng mà sinh viên tích luỹ được từ học phần trong 15 giờ tín chỉ"
+                }
+              ],
+              "id": "b5a1d335-3b47-4a9c-a538-4e41f04b8c4f",
+              "question": "tín chỉ là gì"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 4.  2. Tín chỉ là đại lượng xác định khối lư"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương I những quy định chung.\nĐiều 5. Học phần .\n3. Đề cương học phần:\nĐề cương học phần do giảng viên biên soạn dựa trên chuẩn đầu ra của học phần và được thủ trưởng đơn vị quản lý học phần phê duyệt để cung cấp cho người học trước khi giảng dạy. Đề cương học phần gồm các nội dung chủ yếu sau: \na) Thông tin về đơn vị đào tạo (tên trường, khoa, bộ môn);\nb) Thông tin về giảng viên;\nc) Thông tin về học phần (tên học phần, mã số học phần, bắt buộc hay tự chọn, số lượng tín chỉ, loại tiết học, giờ học, các học phần tiên quyết); \nd) Mục tiêu, chuẩn đầu ra, nội dung, phương pháp giảng dạy của học phần;\nđ) Thông tin về hình thức tổ chức, lịch trình dạy học;\ne) Học liệu;\nf) Các quy định về kiểm tra đánh giá;\ng) Các thông tin khác (nếu có) theo quy định của đơn vị đào tạo quản lý học phần hoặc của Đại học Quốc gia Hà Nội.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 93,
+                  "text": "giảng viên"
+                }
+              ],
+              "id": "881c1f1c-1696-415b-b04d-9f420d990eb9",
+              "question": "Đề cương học phần do ai biên soạn"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 249,
+                  "text": "Đề cương học phần gồm các nội dung chủ yếu sau:"
+                }
+              ],
+              "id": "0c0ab607-5e05-42cc-a898-18279a04b065",
+              "question": "Đề cương môn học có những gì"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 5.  3. Đề cương học phần:\nĐề cương học phần "
+    },
+    {
+      "paragraphs": [
+        {
+          "context": " Chương II chương trình đào tạo.\nĐiều 13. Thiết kế chương trình đào tạo .\n2. Thiết kế chương trình đào tạo:\na) Chương trình đào tạo chuẩn được thiết kế từ 120 đến 140 tín chỉ đối với đào tạo cử nhân, 140 đến 160 tín chỉ đối với đào tạo kỹ sư, 155 đến 175 tín chỉ đối với đào tạo dược sĩ, 205 đến 225 tín chỉ đối với đào tạo bác sĩ.\nb) Chương trình đào tạo chất lượng cao được thiết kế nhiều hơn chương trình đào tạo chuẩn tương ứng ít nhất là 15 tín chỉ, trên cơ sở nâng cao, bổ sung một số học phần, có tham khảo chương trình đào tạo nước ngoài có uy tín.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 243,
+                  "text": "155 đến 175 tín chỉ"
+                }
+              ],
+              "id": "06503828-e2e0-4d30-ae8b-f8f1456d659b",
+              "question": "chương trình chuẩn cho dược sĩ có bao nhiêu tín chỉ"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 155,
+                  "text": "120 đến 140 tín chỉ"
+                }
+              ],
+              "id": "b59ae16d-fe2c-40be-b724-9a9a7a162cf7",
+              "question": "chương trình đào tạo chuẩn cử nhân có bao nhiêu tín"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 432,
+                  "text": "ít nhất là 15 tín chỉ"
+                }
+              ],
+              "id": "06cff97e-44d5-44d5-91f5-08819dbf3cf9",
+              "question": "chương trình đào tạo chuẩn ít hơn chất lượng cao bao nhiêu tín chỉ"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 432,
+                  "text": "ít nhất là 15 tín chỉ"
+                }
+              ],
+              "id": "fd0892f5-2e06-44e9-801d-980d516e9739",
+              "question": "chương trình đào tạo chất lượng cao nhiều hơn chương trình chuẩn bao nhiêu tín chỉ"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 13. 2. Thiết kế chương trình đào tạo:\na) Chư"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": " Chương II chương trình đào tạo.\nĐiều 13. Thiết kế chương trình đào tạo .\nc) Chương trình đào tạo chuẩn quốc tế được thiết kế nhiều hơn chương trình đào tạo chuẩn tương ứng ít nhất là 15 tín chỉ, trên cơ sở chương trình đào tạo của một trường đại học tiên tiến có uy tín trên thế giới đã được điều chỉnh phù hợp với các quy định của Đại học Quốc gia Hà Nội.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 126,
+                  "text": "nhiều hơn chương trình đào tạo chuẩn tương ứng ít nhất là 15 tín chỉ"
+                }
+              ],
+              "id": "0477eb05-5866-4a15-95f6-714502b4cc2e",
+              "question": "chương trình đào tạo chuẩn quốc tế là như nào"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 126,
+                  "text": "nhiều hơn chương trình đào tạo chuẩn tương ứng ít nhất là 15 tín chỉ"
+                }
+              ],
+              "id": "07092c24-2e34-485a-a31d-751fda77dc54",
+              "question": "chương trình đào tạo chuẩn quốc tế được thiết kế như thế nào"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 13. c) Chương trình đào tạo chuẩn quốc tế đư"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": " Chương II chương trình đào tạo.\nĐiều 13. Thiết kế chương trình đào tạo .\nd) Chương trình đào tạo tài năng được thiết kế nhiều hơn chương trình đào tạo chuẩn tương ứng ít nhất là 30 tín chỉ, trên cơ sở nâng cao, bổ sung một số học phần với yêu cầu trình độ cao hơn và nội dung rộng hơn, sâu hơn, có tham khảo chương trình đào tạo nước ngoài có uy tín.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 168,
+                  "text": "ít nhất là 30 tín chỉ"
+                }
+              ],
+              "id": "0f02a0b9-d0d8-4d63-a805-ba7ab3cba88d",
+              "question": "chương trình tài năng hơn chương trình chuẩn mấy tín chỉ"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 13. d) Chương trình đào tạo tài năng được th"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương III tổ chức đào tạo.\nĐiều 15. Học kỳ.\nMỗi năm học có hai học kỳ chính và một học kỳ phụ.\nMỗi học kỳ chính có 15 tuần học và từ 3 đến 4 tuần thi.\nMỗi học kỳ phụ có ít nhất 5 tuần học và 1 tuần thi, được tổ chức trong thời gian giữa hai học kỳ chính. ",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 60,
+                  "text": "hai học kỳ chính và một học kỳ phụ"
+                }
+              ],
+              "id": "c5a2a289-a7af-44f6-9ac5-a23e3999b8fb",
+              "question": "một năm học có những kỳ học nào"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 116,
+                  "text": "15 tuần học và từ 3 đến 4 tuần thi"
+                }
+              ],
+              "id": "fd34b1fb-66f5-4fea-bcb0-e5efe70cbd9c",
+              "question": "kỳ học chính có gì"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 170,
+                  "text": "ít nhất 5 tuần học và 1 tuần thi"
+                }
+              ],
+              "id": "1c3666e2-f057-44fa-b859-a0dcb34d6e71",
+              "question": "kỳ học phụ có mấy tuần"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 233,
+                  "text": "giữa hai học kỳ chính"
+                }
+              ],
+              "id": "0c9aa2ac-a9e6-47ce-bcf2-4cdad5594fc1",
+              "question": "kỳ phụ diễn ra lúc nào"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 116,
+                  "text": "15 tuần học"
+                }
+              ],
+              "id": "e011ce43-58cd-4230-8574-ba4e4b7cf886",
+              "question": "kỳ chính gồm mấy tuần học"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 233,
+                  "text": "giữa hai học kỳ chính"
+                }
+              ],
+              "id": "8def1567-d326-460e-b13b-5acd7e64ccb8",
+              "question": "khi nào đến kỳ học phụ"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 15. Mỗi năm học có hai học kỳ chính và một h"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương III tổ chức đào tạo.\nĐiều 16. Khoá học.\n1. Thời gian của khoá học:\na) Thời gian thiết kế của khoá học đào tạo chính quy là 8 học kỳ chính đối với đào tạo cử nhân, từ 9 đến 10 học kỳ chính đối với đào tạo kỹ sư, 10 học kỳ chính đối với đào tạo dược sĩ, 12 học kỳ chính đối với đào tạo bác sĩ.\nb) Thời gian thiết kế của khoá học đào tạo vừa làm vừa học dài hơn so với khoá học đào tạo chính quy tương ứng từ 1 đến 2 học kỳ chính.\nc) Thời gian thiết kế của khoá học đào tạo văn bằng thứ hai do thủ trưởng đơn vị đào tạo quy định cho từng sinh viên trên cơ sở khối lượng kiến thức đã được tích luỹ và kết quả học tập được bảo lưu, nhưng không vượt quá thời gian thiết kế của chương trình đào tạo chính quy tương ứng.\nd) Thời gian tối đa hoàn thành khoá học bao gồm thời gian thiết kế của khoá học cộng với 4 học kỳ chính đối với các khoá học từ 4 đến dưới 5 năm; 6 học kỳ chính đối với các khoá học từ 5 đến 6 năm.\nđ) Thời gian khoá học đồng thời hai chương trình đào tạo không vượt quá thời gian đào tạo tối đa của chương trình đào tạo thứ nhất.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 170,
+                  "text": "từ 9 đến 10 học kỳ chính"
+                }
+              ],
+              "id": "3dd48e28-3664-44d4-85e1-65158bc2d608",
+              "question": "thời gian đào tạo kỹ sư là mấy kỳ học"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 358,
+                  "text": "dài hơn so với khoá học đào tạo chính quy tương ứng từ 1 đến 2 học kỳ chính"
+                }
+              ],
+              "id": "3dd48e28-3664-44d4-85e1-65158bc2d609",
+              "question": "thời gian học của khoá vừa làm vừa học là như nào"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 768,
+                  "text": "thời gian thiết kế của khoá học cộng với 4 học kỳ chính đối với các khoá học từ 4 đến dưới 5 năm; 6 học kỳ chính đối với các khoá học từ 5 đến 6 năm"
+                }
+              ],
+              "id": "efe6c803-6b03-4a60-9f10-2bb501b7d76e",
+              "question": "thời gian tối đa của khoá học là bao nhiều"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 768,
+                  "text": "thời gian thiết kế của khoá học cộng với 4 học kỳ chính đối với các khoá học từ 4 đến dưới 5 năm; 6 học kỳ chính đối với các khoá học từ 5 đến 6 năm"
+                }
+              ],
+              "id": "53d13fd0-51a0-48b5-8a68-fb50d0392133",
+              "question": "tối đa có thể học tại trường bao nhiêu thời gian"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 768,
+                  "text": "thời gian thiết kế của khoá học cộng với 4 học kỳ chính đối với các khoá học từ 4 đến dưới 5 năm; 6 học kỳ chính đối với các khoá học từ 5 đến 6 năm"
+                }
+              ],
+              "id": "f12d499d-0f0f-491d-b6a7-e0a2e5c91f4d",
+              "question": "có thể học khoá học tối đa bao lâu"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 975,
+                  "text": "không vượt quá thời gian đào tạo tối đa của chương trình đào tạo thứ nhất"
+                }
+              ],
+              "id": "42c0f214-b67f-40fc-affd-7ea587edb43e",
+              "question": "thời gian của khoá học đồng thời hai chương trình đạo tạo là như thế nào"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 975,
+                  "text": "không vượt quá thời gian đào tạo tối đa của chương trình đào tạo thứ nhất"
+                }
+              ],
+              "id": "630d126b-ef00-42a8-8381-b01e0023053f",
+              "question": "chương trình ngành kép có thời gian học trong vòng bao lâu"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 16. 1. Thời gian của khoá học:\na) Thời gian "
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương III tổ chức đào tạo.\nĐiều 16. Khoá học.\n2. Năm đào tạo:\nSau mỗi học kỳ, căn cứ vào số tín chỉ tích luỹ, sinh viên được xếp ứng với năm đào tạo như sau:\n(không kể các học phần ngoại ngữ, tự chọn tự do, giáo dục thể chất, giáo dục quốc phòng và kỹ năng bổ trợ)\nNăm thứ nhất:\n- Chương trình đào tạo chuẩn: <35 tín chỉ;\n- Chương trình đào tạo chất lượng cao, chuẩn quốc tế: <40 tín chỉ;\n- Chương trình đào tạo tài năng: <45 tín chỉ.\nNăm thứ hai:\n- Chương trình đào tạo chuẩn: 35 – 70 tín chỉ;\n- Chương trình đào tạo chất lượng cao, chuẩn quốc tế: 40 – 80 tín chỉ;\n- Chương trình đào tạo tài năng: 45 – 90 tín chỉ.\nNăm thứ ba:\n- Chương trình đào tạo chuẩn: 71 – 105 tín chỉ;\n- Chương trình đào tạo chất lượng cao, chuẩn quốc tế: 81 – 115 tín chỉ;\n- Chương trình đào tạo tài năng: 91 – 130 tín chỉ.\nNăm thứ tư:\n- Chương trình đào tạo chuẩn: 106 – 140 tín chỉ;\n- Chương trình đào tạo chất lượng cao, chuẩn quốc tế: 116 – 155 tín chỉ;\n- Chương trình đào tạo tài năng: 131 – 170 tín chỉ.\nNăm thứ năm: 141 – 175 tín chỉ.\nNăm thứ sáu: 176 – 225 tín chỉ.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 600,
+                  "text": "45 – 90 tín chỉ"
+                }
+              ],
+              "id": "54041573-1818-4434-8a95-0aad14173734",
+              "question": "ở năm thứ hai của chương trình tài năng, sinh viên cần tích luỹ bao nhiêu tín chỉ"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 310,
+                  "text": "<35 tín chỉ"
+                }
+              ],
+              "id": "2adf2745-4e75-4712-acc5-2e416f297a48",
+              "question": "sinh viên tích luỹ bao nhiêu tín chỉ ở năm nhất của chương trình chuẩn"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 659,
+                  "text": "71 – 105 tín chỉ"
+                }
+              ],
+              "id": "a56baaa7-5ab7-4db7-b1aa-38e1d50d1874",
+              "question": "năm ba thường ứng với số tính chỉ tích lũy bao nhiêu"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 1031,
+                  "text": "176 – 225 tín chỉ"
+                }
+              ],
+              "id": "d76941e7-565b-46bf-82d8-49b8b7c48857",
+              "question": "sinh viên năm sáu cần được mấy tín chỉ"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 16. 2. Năm đào tạo:\nSau mỗi học kỳ, căn cứ v"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương III tổ chức đào tạo.\nĐiều 20. Đăng ký học phần.\nc) Tất cả các đơn vị đào tạo trong toàn Đại học Quốc gia Hà Nội sử dụng thống nhất phần mềm và cơ sở dữ liệu quản lý đào tạo, quản lý người học.\nd) Khi đăng ký học các học phần tự chọn, sinh viên phải xác định rõ học phần tự chọn có điều kiện hay học phần tự chọn tự do. Những học phần tự chọn tự do đạt điểm D trở lên được ghi trong bảng điểm cấp kèm theo bằng tốt nghiệp, không tính vào điểm trung bình chung học kỳ và điểm trung bình chung tích luỹ.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 429,
+                  "text": "không"
+                }
+              ],
+              "id": "cfc9e893-5eb5-41db-b140-a5da03710c1e",
+              "question": "những học phần tự chọn tự do có tính vào điểm trung bình không"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 20. c) Tất cả các đơn vị đào tạo trong toàn "
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương III tổ chức đào tạo.\nĐiều 20. Đăng ký học phần.\n3. Thời gian đăng ký học phần:\na) Trước khi bắt đầu mỗi học kỳ, tuỳ theo khả năng và điều kiện học tập, sinh viên tham khảo ý kiến tư vấn của cố vấn học tập để đăng ký các học phần dự định sẽ học trong học kỳ đó.\nb) Chậm nhất là 1 tháng trước khi bắt đầu mỗi học kỳ, sinh viên phải hoàn thành đăng ký các học phần. \nc) Trong 2 tuần đầu của học kỳ chính hoặc trong 1 tuần đầu của học kỳ phụ, sinh viên được phép đăng ký những học phần muốn học thêm hoặc đăng ký đổi sang lớp học phần khác.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 197,
+                  "text": "cố vấn học tập"
+                }
+              ],
+              "id": "34796733-eae6-47a6-98c1-944edaf53dea",
+              "question": "sinh viên có thể tham khảo ai trong việc đăng ký học"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 197,
+                  "text": "cố vấn học tập"
+                }
+              ],
+              "id": "23825352-9c39-4759-a92e-19625f8c39cb",
+              "question": "trước khi đăng ký học, sinh viên nên hỏi ý kiến của ai"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 380,
+                  "text": "2 tuần đầu của học kỳ chính hoặc trong 1 tuần đầu của học kỳ phụ"
+                }
+              ],
+              "id": "ec64cea2-fd34-4990-8b0f-64c0b33e73ea",
+              "question": "sinh viên được sửa đổi đăng ký học trong vòng mấy tuần khi bắt đầu học kỳ"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 380,
+                  "text": "2 tuần đầu của học kỳ chính hoặc trong 1 tuần đầu của học kỳ phụ"
+                }
+              ],
+              "id": "d75baf42-1431-48f4-831d-1e42b47f62da",
+              "question": "có thể đổi đăng ký học trong thời gian nào"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 380,
+                  "text": "2 tuần đầu của học kỳ chính hoặc trong 1 tuần đầu của học kỳ phụ"
+                }
+              ],
+              "id": "66a79b7d-c2ea-4b62-894c-9d0b17181379",
+              "question": "sinh viên được thay đổi học phần đã đăng ký vào thời gian nào"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 380,
+                  "text": "2 tuần đầu"
+                }
+              ],
+              "id": "643bf35b-c470-4053-8da2-e2e28d1771eb",
+              "question": "Thời gian nào trong học kỳ chính, sinh viên được thay đổi học phần"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 20. 3. Thời gian đăng ký học phần:\na) Trước "
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương III tổ chức đào tạo.\nĐiều 20. Đăng ký học phần.\n4. Đăng ký học lại:\na) Đối với các học phần bắt buộc, nếu bị điểm F, sinh viên phải đăng ký học lại học phần đó. \nb) Đối với học phần tự chọn có điều kiện, nếu bị điểm F, sinh viên đăng ký học lại học phần đó hoặc đăng ký học học phần tự chọn khác cùng khối kiến thức để thay thế.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 109,
+                  "text": "nếu bị điểm F"
+                }
+              ],
+              "id": "456e5529-0825-4f8a-a5cc-3e7cb720ded9",
+              "question": "khi nào sinh viên phải đăng ký học lại học phần"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 109,
+                  "text": "nếu bị điểm F"
+                }
+              ],
+              "id": "74c0defa-5ced-403a-8aa7-fb05b3e9b7f0",
+              "question": "khi nào phải đăng ký học lại"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 20. 4. Đăng ký học lại:\na) Đối với các học p"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương III tổ chức đào tạo.\nĐiều 24. Học cùng lúc hai chương trình đào tạo.\n6. Sinh viên chỉ được xét tốt nghiệp chương trình đào tạo thứ hai, nếu đã được công nhận tốt nghiệp chương trình đào tạo thứ nhất và không vượt quá thời gian đào tạo tối đa của chương trình đào tạo thứ nhất.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 143,
+                  "text": "nếu đã được công nhận tốt nghiệp chương trình đào tạo thứ nhất và không vượt quá thời gian đào tạo tối đa của chương trình đào tạo thứ nhất"
+                }
+              ],
+              "id": "25e2a76e-5e1e-4443-9bfe-4a9eb39b0961",
+              "question": "Điều kiện để tốt nghiệp chương trình thứ hai là gì"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 24. 6. Sinh viên chỉ được xét tốt nghiệp chư"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương III tổ chức đào tạo.\nĐiều 25. Chuyển đổi sinh viên giữa các chương trình đào tạo.\n3. Không chuyển sinh viên đang học chương trình đào tạo liên kết quốc tế sang học các chương trình đào tạo khác.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 92,
+                  "text": "Không chuyển sinh viên đang học chương trình đào tạo liên kết quốc tế sang học các chương trình đào tạo khác"
+                }
+              ],
+              "id": "4a132f87-fda8-439e-9e6d-3ea8612bc2d8",
+              "question": "có thể chuyển từ chương trình liên kết quốc tế sang chương trình khác không"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 25. 3. Không chuyển sinh viên đang học chươn"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương IV hoạt động nghiên cứu khoa học của sinh viên.\nĐiều 29. Điểm thưởng thành tích nghiên cứu khoa học của sinh viên.\n1. Điểm thưởng cho những công trình nghiên cứu khoa học của sinh viên đạt giải được cộng vào điểm trung bình chung học kỳ, điểm trung bình chung tích luỹ để làm căn cứ xét học bổng, xét chuyển tiếp vào học ở bậc sau đại học và các quyền lợi khác, không dùng để xếp loại học lực hoặc xác định hạng tốt nghiệp.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 369,
+                  "text": "không dùng để xếp loại học lực"
+                }
+              ],
+              "id": "0e1566b9-c548-465c-9dfe-5f8bfe4021de",
+              "question": "điểm thưởng từ việc nghiên cứu khoa học có được cộng để xét học lực hay không"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 369,
+                  "text": "không dùng để xếp loại học lực hoặc xác định hạng tốt nghiệp"
+                }
+              ],
+              "id": "4af17211-9e7d-48a6-b266-9090692c541a",
+              "question": "điểm cộng từ nghiên cứu khoa học có được xét để xác định tốt nghiệp không"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 29. 1. Điểm thưởng cho những công trình nghi"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương VI nghĩa vụ và quyền lợi của sinh viên.\nĐiều 32. Nghĩa vụ của sinh viên.\nc) Đình chỉ thi: áp dụng đối với sinh viên vi phạm một trong các lỗi:\n- Đã bị cảnh cáo một lần nhưng trong giờ thi học phần đó vẫn tiếp tục vi phạm quy định;\n- Sau khi đã bóc đề thi bị phát hiện mang theo những vật dụng không được phép;\n- Đưa đề thi ra ngoài hoặc nhận bài giải từ ngoài vào phòng thi.\nSinh viên bị kỷ luật đình chỉ thi sẽ bị điểm không (0) bài thi học phần đó và phải ra khỏi phòng thi ngay sau khi có quyết định đình chỉ thi. Các hình thức kỷ luật nói trên do cán bộ coi thi lập biên bản, thu tang vật và ghi rõ hình thức kỷ luật.\nd) Sinh viên thi hộ hoặc nhờ người thi hộ bị kỷ luật ở mức đình chỉ học tập 1 năm nếu vi phạm lần thứ nhất và buộc thôi học nếu vi phạm lần thứ hai.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 688,
+                  "text": "đình chỉ học tập 1 năm nếu vi phạm lần thứ nhất và buộc thôi học nếu vi phạm lần thứ hai"
+                }
+              ],
+              "id": "019ce0b3-fbf9-482a-9b7f-ff676280bdca",
+              "question": "việc thi hộ sẽ bị kỷ luật như thế nào"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 688,
+                  "text": "đình chỉ học tập 1 năm nếu vi phạm lần thứ nhất và buộc thôi học nếu vi phạm lần thứ hai"
+                }
+              ],
+              "id": "4f6fcafa-7ed7-484d-be3f-524ad8a34a0d",
+              "question": "mức kỷ luật cho lỗi thi hộ là gì"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 422,
+                  "text": "điểm không (0)"
+                }
+              ],
+              "id": "4f6fcafa-7ed7-484d-be3f-524ad8a34a0e",
+              "question": "nếu bị đình chỉ thi, sinh viên được mấy điểm"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 422,
+                  "text": "điểm không (0)"
+                }
+              ],
+              "id": "4f6fcafa-7ed7-484d-be3f-524ad8a34a0f",
+              "question": "điểm bài thi còn bao nhiêu khi bị đình chỉ thi"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 382,
+                  "text": "Sinh viên bị kỷ luật đình chỉ thi sẽ bị điểm không (0)"
+                }
+              ],
+              "id": "4f6fcafa-7ed7-484d-be3f-524ad8a34a10",
+              "question": "nếu bị phát hiện làm lộ đề thi ra ngoài thì bị phạt như nào"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 32. c) Đình chỉ thi: áp dụng đối với sinh vi"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương VI nghĩa vụ và quyền lợi của sinh viên.\nĐiều 33. Quyền lợi của sinh viên.\n3. Sinh viên được xin nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau đây:\na) Được động viên vào lực lượng vũ trang. Thời gian nghỉ học tạm thời không tính vào thời gian tối đa được phép học;\nb) Bị ốm hoặc bị tai nạn buộc phải điều trị trong thời gian dài có giấy xác nhận của cơ sở y tế. Thời gian nghỉ học tạm thời không tính vào thời gian tối đa được phép học;\nc) Vì lý do chủ quan của cá nhân. Trường hợp này, sinh viên phải học ít nhất một học kỳ ở đơn vị đào tạo, không bị buộc thôi học và phải đạt điểm trung bình chung tích luỹ không dưới 2,00. Thời gian nghỉ học tạm thời vì nhu cầu cá nhân được tính vào thời gian tối đa được phép học.\nSinh viên nghỉ học tạm thời nếu muốn học tiếp phải có đơn đề nghị Thủ trưởng đơn vị đào tạo giải quyết chậm nhất 2 tuần trước khi hết thời hạn nghỉ học tạm thời.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 799,
+                  "text": "có đơn đề nghị Thủ trưởng đơn vị đào tạo"
+                }
+              ],
+              "id": "7c27c8ef-7bf4-4c07-a13c-1eaf4049b742",
+              "question": "nếu muốn tiếp tục học sau khi nghỉ tạm thời thì cần làm gì"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 33. 3. Sinh viên được xin nghỉ học tạm thời "
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương VII kiểm tra, thi và đánh giá kết quả học tập.\nĐiều 34. Đánh giá kết quả học phần.\n1. Điểm đánh giá học phần (gọi là điểm học phần) bao gồm: điểm đánh giá bộ phận (trung bình của các điểm kiểm tra đánh giá thường xuyên, giữa kỳ) và điểm thi kết thúc học phần, trong đó, điểm thi kết thúc học phần là bắt buộc và có trọng số không dưới 60% điểm của học phần.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 307,
+                  "text": "bắt buộc và có trọng số không dưới 60% điểm của học phần"
+                }
+              ],
+              "id": "a03d4ea7-77f8-4b42-a4f8-c4d8f82e47f7",
+              "question": "điểm thi cuối kỳ quan trọng như thế nào"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 331,
+                  "text": "không dưới 60%"
+                }
+              ],
+              "id": "55004935-cae0-4976-bf92-e4bd48b3682f",
+              "question": "trọng số điểm cuối kỳ là mấy %"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 331,
+                  "text": "không dưới 60%"
+                }
+              ],
+              "id": "fad612de-167c-4159-8b22-f7d9f2042755",
+              "question": "điểm kết thúc môn có trọng số bao nhiêu"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 331,
+                  "text": "không dưới 60%"
+                }
+              ],
+              "id": "066c3cfc-0e56-413f-99c9-3939f3e8bdbd",
+              "question": "điểm cuối kỳ chiếm ít nhất bao nhiêu % điểm tổng kết"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 148,
+                  "text": "điểm đánh giá bộ phận (trung bình của các điểm kiểm tra đánh giá thường xuyên, giữa kỳ) và điểm thi kết thúc học phần"
+                }
+              ],
+              "id": "9efcdd56-ecce-4fad-8975-32d43e7adca7",
+              "question": "học phần có những đầu điểm đánh giá nào"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 148,
+                  "text": "điểm đánh giá bộ phận (trung bình của các điểm kiểm tra đánh giá thường xuyên, giữa kỳ) và điểm thi kết thúc học phần"
+                }
+              ],
+              "id": "7b7f1e34-1768-4d8e-b03d-a4984de5ad84",
+              "question": "các đầu điểm của một học phần là gì"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 34. 1. Điểm đánh giá học phần (gọi là điểm h"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương VII kiểm tra, thi và đánh giá kết quả học tập.\nĐiều 35. Tổ chức kiểm tra đánh giá và thi kết thúc học phần.\n1. Việc kiểm tra đánh giá và chấm điểm bộ phận của mỗi học phần do giảng viên lớp học phần trực tiếp thực hiện và thông báo kết quả cho sinh viên, chậm nhất 7 ngày làm việc kể từ sau ngày kiểm tra hoặc ngày nộp tiểu luận, bài tập lớn.\nSinh viên chưa có điểm đánh giá bộ phận vì có lý do chính đáng được cơ quan có thẩm quyền xác nhận và được Chủ nhiệm khoa của khoa trực thuộc Đại học Quốc gia Hà Nội (hoặc Chủ nhiệm khoa của khoa thuộc trường đại học thành viên) đồng ý, giảng viên tổ chức kiểm tra đánh giá bổ sung cho sinh viên. \nSinh viên chỉ được dự thi kết thúc học phần nếu có điểm đánh giá bộ phận lớn hơn 0, trả học phí đầy đủ và đáp ứng các điều kiện kết thúc học phần do Thủ trưởng đơn vị phụ trách học phần quy định. ",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 696,
+                  "text": "có điểm đánh giá bộ phận lớn hơn 0, trả học phí đầy đủ và đáp ứng các điều kiện kết thúc học phần"
+                }
+              ],
+              "id": "d2b0ed44-bbfc-4050-bb5f-243c84123a56",
+              "question": "điều kiện để được thi cuối kỳ là gì"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 696,
+                  "text": "có điểm đánh giá bộ phận lớn hơn 0, trả học phí đầy đủ và đáp ứng các điều kiện kết thúc học phần"
+                }
+              ],
+              "id": "3b5e9a5b-2474-476f-9b9f-61829edad42c",
+              "question": "để được thi kết thúc môn học, cần phải đáp ứng điều kiện gì"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 35. 1. Việc kiểm tra đánh giá và chấm điểm b"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương VII kiểm tra, thi và đánh giá kết quả học tập.\nĐiều 35. Tổ chức kiểm tra đánh giá và thi kết thúc học phần.\n2. Đơn vị đào tạo tổ chức thi kết thúc học phần. Đối với học phần có nhiều lớp học phần cùng học trong một học kỳ, thi kết thúc học phần được tổ chức vào cùng thời gian, với cùng đề thi.\nCuối mỗi học kỳ, đơn vị đào tạo tổ chức một kỳ thi chính và nếu có điều kiện tổ chức thêm một kỳ thi phụ. Đối với mỗi học phần, sinh viên chỉ được dự thi một lần trong cùng một kỳ thi. Kỳ thi phụ chỉ dành cho những sinh viên chưa dự kỳ thi chính vì lý do chính đáng được cơ quan có thẩm quyền xác nhận và được Thủ trưởng đơn vị đào tạo cho phép.\n3. Lịch thi của kỳ thi chính phải được thông báo trước ít nhất 1 tháng, lịch thi của kỳ thi phụ phải được thông báo trước ít nhất 1 tuần. Trong kỳ thi, từng học phần được tổ chức thi riêng biệt, không bố trí thi ghép một số học phần trong cùng một buổi thi của một sinh viên.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 697,
+                  "text": "trước ít nhất 1 tháng"
+                }
+              ],
+              "id": "f3c45df3-266c-4ec7-a626-b7b64209b76f",
+              "question": "khi nào thì có thông báo về lịch thi học kỳ chính"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 440,
+                  "text": "chỉ được dự thi một lần trong cùng một kỳ thi"
+                }
+              ],
+              "id": "a4f05a2f-5d91-474f-8ced-12d21a26c3c3",
+              "question": "có được thi lại trong cùng một kỳ không"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 440,
+                  "text": "chỉ được dự thi một lần trong cùng một kỳ thi"
+                }
+              ],
+              "id": "5f9c7e1c-7466-4651-bd1f-a7b0c5b3ff37",
+              "question": "có thể thi lại lần hai trong một kỳ không"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 35. 2. Đơn vị đào tạo tổ chức thi kết thúc h"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương VII kiểm tra, thi và đánh giá kết quả học tập.\nĐiều 40. Cách tính điểm trung bình chung .\n1. Để tính điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích luỹ, mức điểm chữ của mỗi học phần được quy đổi thành điểm số như sau:\nA+ tương ứng với 4,0;\nA  tương ứng với 3,7;\nB+ tương ứng với 3,5;\nB  tương ứng với 3,0;\nC+ tương ứng với 2,5;\nC  tương ứng với 2,0;\nD+ tương ứng với 1,5;\nD  tương ứng với 1,0;\nF  tương ứng với 0.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 357,
+                  "text": "3,0"
+                }
+              ],
+              "id": "1c8e79eb-c54c-4faf-a12c-f9f5c0b9d6ee",
+              "question": "B tương ứng với mấy điểm"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 423,
+                  "text": "1,5"
+                }
+              ],
+              "id": "8ce22ff9-01d6-4c61-a830-dc740eb824a7",
+              "question": "D+ là bao nhiêu điểm hệ 4"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 274,
+                  "text": "A+"
+                }
+              ],
+              "id": "a48df962-8a96-4ffc-97e8-3838ddf06d7b",
+              "question": "điểm chữ nào là cao nhất"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 450,
+                  "text": "F"
+                }
+              ],
+              "id": "fb8b4cfd-ca73-4982-9773-92ed6cc279c0",
+              "question": "điểm chữ thấp nhất là điểm gì"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 335,
+                  "text": "3,5"
+                }
+              ],
+              "id": "19953a43-20ca-49a5-8697-a4d70dedac2a",
+              "question": "B+ tương đương mấy điểm"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 313,
+                  "text": "3,7"
+                }
+              ],
+              "id": "63068ab5-ed09-49ec-bbba-30983586dc96",
+              "question": "điểm A quy đổi thành mấy điểm"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 40. 1. Để tính điểm trung bình chung học kỳ,"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương VII kiểm tra, thi và đánh giá kết quả học tập.\nĐiều 40. Cách tính điểm trung bình chung .\n2. Điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích luỹ được tính theo công thức sau và được làm tròn đến 2 chữ số thập phân:\nM = a.∑(i=1,n) ai.ni  /  ∑(i=1,n) ni\ntrong đó:\nA: là điểm trung bình chung học kỳ hoặc điểm trung bình chung các học phần hoặc điểm trung bình chung tích luỹ;\ni: là số thứ tự học phần;\nai: là điểm của học phần thứ i ni: là số tín chỉ của học phần thứ i;\nni: là số tín chỉ của học phần thứ i;\nn: là tổng số học phần trong học kỳ hoặc tổng số học phần tính từ đầu khoá học tới thời điểm xem xét hoặc tổng số học phần đã tích luỹ.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 249,
+                  "text": "2 chữ số"
+                }
+              ],
+              "id": "5a9567fa-18fd-4cde-aa4f-86f48844f7d3",
+              "question": "điểm trung bình được làm tròn đến mấy chữ số"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 40. 2. Điểm trung bình chung học kỳ, điểm tr"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương VII kiểm tra, thi và đánh giá kết quả học tập.\nĐiều 41. Xử lý học vụ.\n2. Buộc thôi học:\nSau mỗi học kỳ, sinh viên bị buộc thôi học nếu thuộc một trong các trường hợp sau:\na) Có số lần cảnh báo kết quả học tập vượt quá giới hạn theo quy định của Thủ trưởng đơn vị đào tạo;\nb) Vượt quá thời gian tối đa được phép học quy định tại khoản 1, Điều 16 của Quy chế này;\nc) Bị kỷ luật lần thứ hai vì lý do thi hộ hoặc nhờ người thi hộ theo quy định tại mục d, khoản 4, Điều 32 của Quy chế này hoặc bị kỷ luật ở mức xoá tên khỏi danh sách sinh viên của trường;\nChậm nhất là 1 tháng sau khi sinh viên có quyết định buộc thôi học, đơn vị đào tạo phải thông báo trả về địa phương nơi sinh viên có hộ khẩu thường trú.\nd) Sau khi hết hạn nghỉ học tạm thời sinh viên không có đơn xin học trở lại theo quy định tại khoản 3, Điều 33 của Quy chế này.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 121,
+                  "text": "bị buộc thôi học"
+                }
+              ],
+              "id": "e275067c-19d5-4ddc-bb61-071928d29825",
+              "question": "nếu vượt quá thời gian tối đa của khoá học thì sao"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 121,
+                  "text": "bị buộc thôi học"
+                }
+              ],
+              "id": "e275067c-19d5-4ddc-bb61-071928d29826",
+              "question": "xử lý thế nào nếu đã học nhiều hơn thời gian cho phép"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 41. 2. Buộc thôi học:\nSau mỗi học kỳ, sinh v"
+    },
+    {
+      "paragraphs": [
+        {
+          "context": "Chương VIII công nhận tốt nghiệp.\nĐiều 44. Công nhận tốt nghiệp và cấp bằng đại học.\n3. Bằng tốt nghiệp đại học được cấp theo ngành học, trong bằng có ghi rõ tên ngành học, hình thức đào tạo, chương trình đào tạo, hạng tốt nghiệp. Đối với ngành chính – ngành phụ, trong bằng ghi tên ngành học chính; đối với ngành kép, trong bằng ghi tên ngành kép.\n4. Bản chính bằng tốt nghiệp chỉ cấp một lần, không cấp lại.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 395,
+                  "text": "không cấp lại"
+                }
+              ],
+              "id": "66f7af54-c6b3-4e02-b33b-c2227de21384",
+              "question": "bằng tốt nghiệp có được cấp lại không"
+            }
+          ]
+        }
+      ],
+      "title": "Điều 44. 3. Bằng tốt nghiệp đại học được cấp theo"
+    }
+  ]
+}
