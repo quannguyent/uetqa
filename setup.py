@@ -16,6 +16,7 @@ setup(
     long_description=readme,
     license=license,
     python_requires='>=3.6',
-    packages=find_packages(exclude=('data')),
+    packages=find_packages(where="./src/"),
+    package_dir={"":"src"},
     install_requires=reqs.strip().split('\n'),
 )
